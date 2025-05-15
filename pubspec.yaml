@@ -5,3 +5,7 @@ environment:
 
 dev_dependencies:
   melos: ^6.0.0
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^5.2.1
